@@ -1,0 +1,23 @@
+[theme]
+# Couleur principale (boutons, liens, etc.)
+primaryColor = "#4F8BF9"
+
+# Couleur de fond de l'application
+backgroundColor = "#FFFFFF"
+
+# Couleur de fond secondaire (barre latérale, etc.)
+secondaryBackgroundColor = "#F0F2F6"
+
+# Couleur du texte
+textColor = "#000000"
+
+# Police d'écriture
+font = "sans serif"
+
+[server]
+# Activer/désactiver le partage de l'application
+headless = true
+
+# Désactiver les avertissements de mise en cache
+enableCORS = false
+enableXsrfProtection = false
